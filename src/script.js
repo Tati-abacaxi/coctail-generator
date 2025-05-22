@@ -1,0 +1,1 @@
+alert("May I offer you some coctail?");
